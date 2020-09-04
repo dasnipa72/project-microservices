@@ -1,0 +1,4 @@
+{
+  "apiUrl": "/api",
+  "apiUrlForModel": "https://credit-card-fraud--detection.herokuapp.com/"
+}
