@@ -10,7 +10,7 @@
     "client": "npm start --prefix client",
     "dev": "export NODE_ENV=development && concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Shaun Jackson",
+  "author": "Nipa Das",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
